@@ -1,4 +1,4 @@
-```markdown
+
 # Skill Linter & AI Skills Library
 
 Smart tools for building perfect AI Agent Skills.
