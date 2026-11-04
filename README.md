@@ -49,4 +49,3 @@ Join the waitlist for:
 
 ## 📄 License
 MIT License
-```
